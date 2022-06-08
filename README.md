@@ -9,4 +9,7 @@ They wanted a data BI developer to create a financial dashboard with help of the
 3)Expenses by Account Type
 4)Cash flow statements for various months.
 
-
+#### takeaways from the analysis
+total transactions happened from the year 2017-2019
+transactions through different payment modes were explained
+yearly revenue

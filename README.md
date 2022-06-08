@@ -10,6 +10,6 @@ They wanted a data BI developer to create a financial dashboard with help of the
 4)Cash flow statements for various months.
 
 #### **Takeaways from the analysis**
-total transactions happened from the year 2017-2019
-transactions through different payment modes were explained
-yearly revenue
+Total transactions happened from the year 2017-2019
+Transactions through different payment modes were explained
+Yearly revenue
